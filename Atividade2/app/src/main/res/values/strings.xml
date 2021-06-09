@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atividade 2</string>
+    <string name="Comments">Comments</string>
+    <string name="Albums">Albums</string>
+    <string name="Users">Users</string>
+    <string name="Posts">Posts</string>
+    <string name="Detalhe">Detalhes</string>
+</resources>
